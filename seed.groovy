@@ -14,3 +14,5 @@ def repo = 'https://github.com/maheshwar807/sample_job.git'
         }
     }
 }
+
+queue('example')
